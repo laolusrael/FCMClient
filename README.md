@@ -5,7 +5,7 @@ https://firebase.google.com/docs/cloud-messaging/
 
 
 Firebase Cloud Messaging service allows developers to easily send push notifications to mobile application users. 
-Ordinarily, you will have to write difference code to implement push notifications for different mobile platforms, but Firebase Cloud Messaging allows you to send push notification to all platforms supported by your solution with a single api.
+Ordinarily, you will have to write different code to implement push notifications for different mobile platforms, but Firebase Cloud Messaging allows you to send push notification to all platforms supported by your solution with a single api.
 
 
 FCM Client for .net implements the FCM API using C#, thereby allowing anyone to send push notification with FCM easily.
